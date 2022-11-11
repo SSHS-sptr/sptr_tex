@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Gamma function}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Definition}{4}{0}{1}
